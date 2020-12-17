@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  <a href="mailto:yurialdegomes@gmail.com? Subject: Github Mensagem&body=" alt="Gmail">
+  <a href="mailto:yurialdegoes@gmail.com?Subject=Github%20Mensagem" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:yurialdegomes@gmail.com? Subject: Github Mensagem&body=" /></a>
 
   <a href="https://www.linkedin.com/in/yuri-gomes-68b071200" alt="Linkedin">
