@@ -18,13 +18,13 @@
 </p>
 
 <p align="left">
-  <a href="mailto:yurialdegoes@gmail.com?Subject=Github%20Mensagem" alt="Gmail">
+  <a href="mailto:yurialdegomes@gmail.com?Subject=Github%20Mensagem" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:yurialdegoes@gmail.com?Subject=Github%20Mensagem" /></a>
 
   <a href="https://www.linkedin.com/in/yuri-gomes-68b071200" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-gomes-68b071200" /></a>
 
-  <a href="https://wa.me/qr/272U6PTN6UGTJ1" alt="WhatsApp">
+  <a href="https://wa.me/5511948785508" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/qr/272U6PTN6UGTJ1"/></a>
 
   <a href="http://instagram.com/yuri_gms4?utm_source=qr" alt="Instagram">
